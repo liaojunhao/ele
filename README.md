@@ -16,20 +16,16 @@
 * 开发方式：工程化、组件化、模块化
 
 ## 项目截图
-
-![商家页面](http://ss1.sinaimg.cn/large/896bced4gy1fhjhvjgptyj20ae0hijuz&690)
+![image](https://github.com/liaojunhao/ele/blob/master/screenshot/photo1.png)
 
 
 ## 关于作者
-
 冰河末日
-
 * [博客](http://www.cnblogs.com/jingxuan/)
 * [github](https://github.com/liaojunhao)
 
 
 ## 如何使用
-
 1. 下载本项目到本地
 2. npm install 下载依赖
 3. npm run dev
