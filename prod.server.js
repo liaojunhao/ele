@@ -1,6 +1,3 @@
-/**
- * Created by andyjhl on 2017/7/14.
- */
 var express = require('express');
 var config = require('./config/index');
 
